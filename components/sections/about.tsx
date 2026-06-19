@@ -37,22 +37,13 @@ export function About() {
                 focusing on turning complex workflows into intuitive solutions.
               </p>
               <p className="text-lg text-muted-foreground sm:text-xl">
-                My journey started with curiosity about why some products feel
-                effortless while others frustrate. That led me deep into user
-                research, interaction design, and visual craft. Over the past
-                1.5 years I&apos;ve designed enterprise dashboards used by
-                engineers and consumer apps used on the go — learning to
-                translate complexity into clarity.
+                I believe great design starts with understanding users, solving real problems, and reducing friction.
+                  My goal is to create experiences that are easy to use while meeting both user and business needs.
               </p>
               <p className="text-lg text-muted-foreground sm:text-xl">
-                My philosophy is simple: <span className="text-foreground">
-                  start with the user, design with intent, and validate with
-                  evidence.
-                </span>{' '}
-                I solve problems by listening first, mapping the real journey,
-                and removing friction step by step — always balancing what users
-                need with what the business is trying to achieve. What drives me
-                is the craft of making the complex feel intuitive.
+                I enjoy working closely with teams, learning from user feedback, and continuously improving products
+                through thoughtful design decisions. For me, good design is not just about how it looks—it's about <span className="text-foreground">
+                creating experiences that feel natural, efficient, and meaningful.</span>{' '}
               </p>
             </div>
           </Reveal>

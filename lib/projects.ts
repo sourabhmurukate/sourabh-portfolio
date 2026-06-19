@@ -29,7 +29,7 @@ export const projects: Project[] = [
     title: 'Network Monitoring System',
     category: 'Enterprise Dashboard',
     type: 'Web · Enterprise SaaS',
-    year: '2024',
+    
     summary:
       'A real-time monitoring dashboard that gives network engineers complete visibility over device health, alerts, and performance analytics.',
     users: 'Network Engineers & Administrators',
@@ -85,7 +85,7 @@ export const projects: Project[] = [
     title: 'Test Automation Platform',
     category: 'Enterprise SaaS Platform',
     type: 'Web · Enterprise SaaS',
-    year: '2024',
+   
     summary:
       'A SaaS platform that lets QA teams execute, schedule, and analyze automated test suites — turning complex pipelines into a guided, confident workflow.',
     users: 'QA Engineers & Test Engineers',
@@ -141,7 +141,7 @@ export const projects: Project[] = [
     title: 'Smart Vehicle Parking',
     category: 'Mobile Application',
     type: 'Mobile · Consumer',
-    year: '2023',
+    
     summary:
       'A mobile app that helps drivers discover nearby parking, reserve a slot in advance, and pay securely — removing the daily stress of finding a spot.',
     users: 'Urban drivers & commuters',
@@ -218,7 +218,7 @@ export const projects: Project[] = [
     title: 'Virtual Event Management',
     category: 'Mobile / Web Application',
     type: 'Mobile · Web · Consumer',
-    year: '2023',
+   
     summary:
       'A platform that lets users discover, filter, and book virtual events — making it effortless to find the right session and reserve a spot.',
     users: 'Event attendees & professionals',
@@ -295,7 +295,7 @@ export const projects: Project[] = [
     title: 'Landing Page Collection',
     category: 'Responsive Web Design',
     type: 'Web · Practice & Craft',
-    year: '2023',
+    
     summary:
       'A collection of responsive landing pages — education, marketing, and business — focused on visual hierarchy, CTA optimization, and reusable components.',
     users: 'Various target audiences',

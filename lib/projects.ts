@@ -41,7 +41,7 @@ export const projects: Project[] = [
       'Analytics',
       'Reports',
     ],
-    tags: ['Enterprise', 'Dashboard', 'Data Viz', 'Design System'],
+    tags: ['Enterprise', 'Dashboard', 'Design System'],
     accent: 'blue',
     overview:
       'An enterprise-grade platform that helps network teams monitor thousands of connected devices in real time. The product surfaces critical signals — uptime, latency, throughput, and incidents — in a single operational view so teams can detect and resolve issues before they impact the business.',

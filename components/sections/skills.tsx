@@ -42,7 +42,7 @@ const groups = [
 const collaboration = [
   'Developer Handoff',
   'Stakeholder Communication',
-  'Cross-functional Collaboration',
+  'Team Collaboration',
 ]
 
 export function Skills() {

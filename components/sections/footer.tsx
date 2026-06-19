@@ -34,7 +34,7 @@ export function Footer() {
         </div>
       </div>
       <p className="mx-auto mt-8 max-w-5xl text-center text-xs text-muted-foreground sm:text-left">
-        © {new Date().getFullYear()} Sourabh Murukate. Designed &amp; built with
+        © {new Date().getFullYear()} Sourabh Murukate ~ Portfolio
         intent.
       </p>
     </footer>

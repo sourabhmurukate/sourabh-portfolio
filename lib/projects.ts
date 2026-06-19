@@ -74,10 +74,10 @@ export const projects: Project[] = [
       },
     ],
     outcomes: [
-      { label: 'Faster incident triage', value: 'Streamlined' },
+      { label: 'Faster incident triage', value: 'Simplified' },
       { label: 'Unified operational view', value: '1 dashboard' },
-      { label: 'Reusable data-viz patterns', value: 'Design system' },
-      { label: 'Accessible status states', value: 'WCAG-minded' },
+      { label: 'Reusable data patterns', value: 'Design system' },
+      { label: 'Accessible status states', value: 'User-Friendly Design' },
     ],
   },
   {
@@ -97,14 +97,14 @@ export const projects: Project[] = [
       'Automation Workflows',
       'Analytics',
     ],
-    tags: ['Enterprise', 'SaaS', 'Workflows', 'Analytics'],
+    tags: ['Enterprise', 'SaaS', 'Workflows', 'Analytics', 'Reports'],
     accent: 'blue',
     overview:
       'A platform that gives quality engineers a single place to run automated tests, schedule recurring runs, and understand results through clear analytics. The goal was to make automation feel approachable — guiding users through configuration while keeping advanced control available.',
     sections: [
       {
         heading: 'Problem Statement',
-        body: 'Test engineers juggled scripts, CI logs, and scattered dashboards to understand whether a build was healthy. Results were hard to parse, scheduling was manual, and failures lacked context. The product needed to centralize execution and make pass/fail trends instantly understandable.',
+        body: 'Test engineers faced challenges accessing test data, reports, and build status across multiple tools. This fragmented workflow increased the time required to analyze results and identify issues. The solution centralized all testing information into a single platform, improving visibility, reducing manual effort, and enabling faster, more informed decision-making.',
       },
       {
         heading: 'My Contributions',

@@ -32,9 +32,9 @@ export function About() {
           <Reveal>
             <div className="space-y-5 text-pretty text-xl leading-relaxed text-foreground/90 sm:text-2xl">
               <p>
-                I&apos;m a UI/UX Designer who fell in love with design through a
-                simple realization — good interfaces don&apos;t just look good,
-                they make people&apos;s lives easier.
+                I'm a UI/UX Designer passionate about creating simple, user-friendly experiences. 
+                Over the past 1.5 years, I've designed enterprise dashboards and consumer applications, 
+                focusing on turning complex workflows into intuitive solutions.
               </p>
               <p className="text-lg text-muted-foreground sm:text-xl">
                 My journey started with curiosity about why some products feel

@@ -1,6 +1,6 @@
 import { Reveal } from '@/components/reveal'
 import { SectionLabel } from '@/components/section-label'
-import { ArrowUpRight, Mail, Phone, Globe } from 'lucide-react'
+import { ArrowUpRight, Mail, Phone, FileText } from 'lucide-react'
 
 function LinkedinIcon({ className }: { className?: string }) {
   return (

@@ -3,7 +3,7 @@ import { ArrowDownRight, ArrowUpRight, MapPin } from 'lucide-react'
 
 const stats = [
   { value: '1.5+', label: 'Years Experience' },
-  { value: '5+', label: 'Featured Projects' },
+  { value: '4+', label: 'Featured Projects' },
   { value: '4', label: 'Design Tools' },
   { value: '4', label: 'AI Tools' },
 ]

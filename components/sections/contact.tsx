@@ -29,10 +29,10 @@ const channels = [
     href: 'https://www.linkedin.com/in/sourabhmurukate/',
   },
   {
-    icon: Globe,
-    label: 'Portfolio',
-    value: 'sourabhmurukate.design',
-    href: '#',
+    icon: FileText,
+    label: 'Resume',
+    value: 'Download Resume',
+    href: '/Sourabh_Murukate_UIUX_Designer_1.5YExperience.pdf',
   },
   {
     icon: Phone,

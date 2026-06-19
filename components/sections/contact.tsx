@@ -25,7 +25,7 @@ const channels = [
   {
     icon: LinkedinIcon,
     label: 'LinkedIn',
-    value: '/in/sourabh-murukate',
+    value: 'in-sourabh-murukate',
     href: 'https://www.linkedin.com/in/sourabhmurukate/',
   },
   {

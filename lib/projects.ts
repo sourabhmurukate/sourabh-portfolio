@@ -87,7 +87,7 @@ export const projects: Project[] = [
     type: 'Web · Enterprise SaaS',
    
     summary:
-      'A SaaS platform that lets QA teams execute, schedule, and analyze automated test suites — turning complex pipelines into a guided, confident workflow.',
+      'Designed to simplify automated testing by providing QA teams with a single place to run tests, view results, and monitor progress.',
     users: 'QA Engineers & Test Engineers',
     nda: true,
     features: [
@@ -126,7 +126,7 @@ export const projects: Project[] = [
       },
       {
         heading: 'Design Process',
-        body: 'I ran discovery sessions with QA engineers to map their daily workflow and pain points. From journey maps I defined a clear IA, prototyped key flows, and validated them through informal usability checks. The final designs leaned on progressive disclosure — simple by default, powerful on demand.',
+        body: 'I worked closely with QA engineers to understand their workflow, challenges, and testing needs. Based on these insights, I organized the platform structure, designed key user flows, and created prototypes for validation. The final solution focused on keeping the experience simple and intuitive while providing advanced features when needed.',
       },
     ],
     outcomes: [

@@ -78,12 +78,12 @@ export function Contact() {
             <div className="mt-12 grid gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-2 lg:grid-cols-4">
               {channels.map((c) => (
                 <a
-                  key={c.label}
-                  href={c.href}
-                  target={c.href.startsWith('http') ? '_blank' : undefined}
-                  rel="noopener noreferrer"
-                  className="group flex flex-col gap-3 bg-card p-5 transition-colors hover:bg-accent/50"
-                >
+            key={c.label}
+            href={c.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group flex flex-col gap-3 bg-card p-5 transition-colors hover:bg-accent/50"
+            >
                   <c.icon className="h-5 w-5 text-brand" />
                   <div>
                     <p className="text-xs uppercase tracking-wider text-muted-foreground">

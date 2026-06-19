@@ -31,7 +31,7 @@ export function Experience() {
               <div>
                 <h3 className="text-xl font-medium">UI/UX Designer</h3>
                 <p className="mt-1 text-muted-foreground">
-                  Enterprise &amp; Consumer Product Design
+                  Designing Products for Businesses and Everyday Users
                 </p>
               </div>
               <span className="inline-flex h-fit items-center rounded-full border border-border bg-background px-3 py-1 text-sm text-muted-foreground">

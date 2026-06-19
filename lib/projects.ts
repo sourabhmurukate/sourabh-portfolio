@@ -216,7 +216,7 @@ export const projects: Project[] = [
   {
     slug: 'virtual-event-management',
     title: 'Virtual Event Management',
-    category: 'Mobile / Web Application',
+    category: 'Mobile Application',
     type: 'Mobile · Web · Consumer',
    
     summary:

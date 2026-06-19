@@ -3,12 +3,12 @@ import { SectionLabel } from '@/components/section-label'
 import { Check } from 'lucide-react'
 
 const responsibilities = [
-  'Designed end-to-end web and mobile experiences from concept to high-fidelity.',
+  'Designed end-to-end web products from concept to final high-fidelity designs.',
   'Created user flows, wireframes, prototypes, and polished UI designs.',
   'Collaborated closely with developers and stakeholders across the product lifecycle.',
   'Maintained design systems and reusable component libraries for consistency.',
   'Drove usability-focused improvements based on feedback and heuristics.',
-  'Worked on enterprise dashboards and data-dense, workflow-driven applications.',
+  'Designed enterprise dashboards and business applications with complex workflows.',
 ]
 
 export function Experience() {
